@@ -1,24 +1,23 @@
-# README
+# 自由センキュー（Free_Thank_you）
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## どんなアプリか
+自由に感謝を伝えるアプリ
 
-Things you may want to cover:
+## 誰のためのアプリか
+・直接感謝を伝えるのが苦手な方向け（気軽に投稿できる模擬感謝用）
+・感謝の投稿を見て、ほっこりしたい方向け
 
-* Ruby version
+## 作成する3つの理由
+・夏休みの季節感を感じるアプリを作成したかったため。
+・感謝を自由に気軽に投稿出来るアプリがあったら良いなと思ったため
+・感謝だけの投稿アプリを見る事で、見ている方にほっこりしてもらいたかったため
 
-* System dependencies
+## マネタイズ方法
+・自由センキュー（夏休み限定は無料プラン）。
+・自由センキュー（有料プラン）は、月額500円、ポイント制を追加（1センキュー1ポイン
+ト）、して企業や様々なコミュニティで使えるようにカスタマイズ。
 
-* Configuration
+## どんな機能をつけるか
+・無料プラン：CRUD処理、Twitterシェア機能、文字制限機能（ありがとう、thank you、サンキュー、が言葉に含まれていないと投稿できない）、レスポンシブ対応機能、
+・有料プラン：ログイン機能、
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
