@@ -3,8 +3,8 @@
 <P>※改行は反映されません</P>
 <%= form_with model: @post, local: true do |form| %>
   <div>
-    <%= form.label :user_id, "自分の名前" %>
-    <%= form.text_field :user_id %>
+    <%= form.label :user, "自分の名前" %>
+    <%= form.text_field :user  %>
   </div>
   <div>
     <%= form.label :to_name, "相手の名前" %>
