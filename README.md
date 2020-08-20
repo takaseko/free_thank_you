@@ -19,3 +19,6 @@
 ## どんな機能をつけるか
 ・無料プラン：CRUD処理、Twitterシェア機能、文字制限機能（ありがとう、thank you、サンキュー、が言葉に含まれていないと投稿できない）、レスポンシブ対応機能
 ・有料プラン：ログイン機能
+
+## 補足資料（仕様のマインドマップ）  
+![free_thank_you_mindmap](https://user-images.githubusercontent.com/49696854/90827086-8aa5f700-e376-11ea-9900-d7137c347950.jpg)
