@@ -19,6 +19,7 @@
 ## 開発環境
 - Docker
 - エディタ（VSCode）
+- Ruby 2.6.6
 
 ## 使用予定の技術
 - Ruby / Ruby on Rails
